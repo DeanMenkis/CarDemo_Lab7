@@ -1,4 +1,4 @@
-# CarDemo_Lab7
+#readme
 
 Summary
 - Arduino sketch that controls a two-motor demo car with directional LEDs and a speaker.
@@ -25,6 +25,7 @@ Notes
 How to use
 - Open [CarDemo_Lab7.ino](CarDemo_Lab7.ino) in the Arduino IDE or VS Code with Arduino extension.
 - Select the correct board/port and upload.
+- Change wiring to suit your needs.
 - Observe LEDs, speaker, and motor directions according to switch positions.
 
 References
